@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Brasil, com o curso técnico em informática e, conclui o curso superior, recebendo o título de Bacharel em Ciências da Computação, pela Universidade de Marília, UNIMAR, em Marília, São Paulo, em 2005. Sou apaixonado por tecnologia, usando Java e Python, e, com a ajuda da IA, dei um upgrade nos projetos para uma melhor apresentaçãoe correção de eventuais bugs e compartilho meu conhecimento através do github. Aqui, coloco meus projetos e tutoriais para consulta e treinamento. Espero que esse repositório possa ajudar bastante quem esta iniciando na área de informática. 
+Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Brasil, com o curso técnico em informática e, conclui o curso superior, recebendo o título de Bacharel em Ciências da Computação, pela Universidade de Marília, UNIMAR, em Marília, São Paulo, em 2005. Sou apaixonado por tecnologia, usando Java e Python, e, com a ajuda da IA, dei um upgrade nos projetos para uma melhor apresentaçãoe correção de eventuais bugs e compartilho meu conhecimento através do github. Aqui, coloco meus projetos e tutoriais para consulta e treinamento. Espero que esse repositório possa ajudar bastante quem esta iniciando na área de informática. 
 
 <p align="left"> 
     <a href="https://github.com/renatormendes?tab=repositories&sort=stargazers">
@@ -67,35 +67,35 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
 />
 <img 
     align="left" 
-    alt="Next.js" 
-    title="Next.js"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://github.com/user-attachments/assets/be9903c7-9253-4405-9a0d-6c9e0034c7a8" 
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
+    alt="MongoDB"
+    title="MongoDB" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
+    src="https://github.com/user-attachments/assets/76922f30-be55-4ebb-bb12-48fa1f91a654" 
 />
 <img 
     align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
+    alt="PostGreSQL" 
+    title="PostGreSQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
+    src="https://github.com/user-attachments/assets/fc6475f7-a9b3-4973-b1b7-e3c4e6498e70"
 />
 <img 
     align="left" 
-    alt="SASS" 
-    title="SASS"
+    alt="Rails" 
+    title="Rails"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
+    src="https://github.com/user-attachments/assets/ddb42219-ef4b-4372-bc2a-ff7adaed9681"
 />
 <img 
     align="left" 
@@ -107,11 +107,11 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
 />
 <img 
     align="left" 
-    alt="Laravel" 
-    title="Laravel"
+    alt="Spring" 
+    title="Spring"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
+    src="https://github.com/user-attachments/assets/5070e266-c048-4c43-a36b-b49d0597a672"
 />
 <img 
     align="left" 
@@ -146,6 +146,22 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/709f4608-9fcb-4765-aedd-d5cf472e8dc1"
 />
+<img
+    align="left"
+    alt="Visual Studio Code"
+    title="Visual Studio Code"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/71193cc2-b61e-4d90-9292-a862ab712deb"
+/>
+<img 
+    align="left"
+    width="30px" 
+    alt="Java Eclipse" 
+    title="Java Eclipse"
+    style="padding-right: 10px;"
+    src="https://github.com/user-attachments/assets/224d0e26-6b99-4d17-9254-dfc18439b1aa" 
+/>
 
 <br/>
 <br/>
@@ -167,5 +183,11 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatormendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-
 </p>
+
+
+
+
+
+
+
