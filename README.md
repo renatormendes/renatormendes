@@ -144,7 +144,7 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
     title="Java"
     width="30px"
     style="padding-right: 10px;"
-    src="https://www.flaticon.com/br/icone-gratis/java_5968282"
+    src="https://github.com/user-attachments/assets/709f4608-9fcb-4765-aedd-d5cf472e8dc1"
 />
 
 <br/>
