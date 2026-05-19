@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Brasil, com o curso técnico em informática e, conclui o curso superior, recebendo o título de Bacharel em Ciências da Computação, pela Universidade de Marília, UNIMAR, em Marília, São Paulo, em 2005. Sou apaixonado por tecnologia e compartilho meu conhecimento através do github. Aqui, coloco meus projetos e tutoriais para consulta e treinamento. Espero que esse repositório possa ajudar bastante quem esta iniciando na área de informática. 
+Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Brasil, com o curso técnico em informática e, conclui o curso superior, recebendo o título de Bacharel em Ciências da Computação, pela Universidade de Marília, UNIMAR, em Marília, São Paulo, em 2005. Sou apaixonado por tecnologia, usando Java e Python, e, com a ajuda da IA, dei um upgrade nos projetos para uma melhor apresentaçãoe correção de eventuais bugs e compartilho meu conhecimento através do github. Aqui, coloco meus projetos e tutoriais para consulta e treinamento. Espero que esse repositório possa ajudar bastante quem esta iniciando na área de informática. 
 
 <p align="left"> 
     <a href="https://github.com/renatormendes?tab=repositories&sort=stargazers">
