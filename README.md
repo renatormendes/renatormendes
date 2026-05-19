@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Renato Mendes
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Concluí o ensino médio no Colégio Nossa Senhora do Brasil, com o curso técnico em informática e, conclui o curso superior, recebendo o título de Bacharel em Ciências da Computação, pela Universidade de Marília, UNIMAR, em Marília, São Paulo, em 2005. Sou apaixonado por tecnologia e compartilho meu conhecimento através do github. Aqui, coloco meus projetos e tutoriais para consulta e treinamento. Espero que esse repositório possa ajudar bastante quem esta iniciando na área de informática. 
 
@@ -136,6 +136,15 @@ Me chamo Renato Rosa Mendes, tenho 53 anos e sou natural do Rio de Janeiro. Conc
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img
+    align="left"
+    alt="Java"
+    title="Java"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://www.flaticon.com/br/icone-gratis/java_5968282"
 />
 
 <br/>
