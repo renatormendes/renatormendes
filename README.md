@@ -168,18 +168,10 @@ Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino m�
 
 ### 📊 Estatísticas
 
-<img
-  align="left"
-  width="350em"
-  height="200em"
-  src="https://github-readme-stats-fast.vercel.app/api?username=renatormendes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-/>
-<img
-  align="left"
-  width="350em"
-  height="200em"
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renatormendes&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"
-/>
+<p align="left">
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=renatormendes&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=renatormendes&layout=compact&theme=tokyonight" />
+</p>
 
 
 
