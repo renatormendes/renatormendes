@@ -165,7 +165,7 @@ Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino m�
 
 <br/>
 <br/>
-
+<!--
 ### 📊 Estatísticas
 
 <p>
@@ -183,8 +183,9 @@ Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino m�
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatormendes&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
+  
 </p>
-
+-->
 
 
 
