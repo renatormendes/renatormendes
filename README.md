@@ -22,7 +22,7 @@ Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino m�
 </p>
 
 ---
-
+<!--
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -161,8 +161,30 @@ Me chamo Renato Rosa Mendes, sou natural do Rio de Janeiro. Concluí o ensino m�
     style="padding-right: 10px;"
     src="https://github.com/user-attachments/assets/224d0e26-6b99-4d17-9254-dfc18439b1aa" 
 />
-<br/>
-<br/>
+-->
+
+### 🛠️ Conjunto de Tecnologias
+
+### Frontend
+
+![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+
+### DevOps & Tools
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 
 ---
 
