@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Renato Mendes
+# Renato Mendes
 
 **`Desenvolvedor FullStack`**
 
